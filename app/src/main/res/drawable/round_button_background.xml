@@ -1,0 +1,4 @@
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Цвет фона -->
+    <corners android:radius="50dp" /> <!-- Радиус углов для создания круглой формы -->
+</shape>

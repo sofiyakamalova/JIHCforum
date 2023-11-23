@@ -1,0 +1,48 @@
+<resources>
+    <string name="enterphone">Телефон номерін енгізіңіз</string>
+    <string name="app_name">JIHCфорум</string>
+    <string name="title_home">Басты бет</string>
+    <string name="title_chat">Сөйлесу</string>
+    <string name="title_notifications">Хабарландырулар</string>
+    <string name="title_profile">Жеке кабинет</string>
+    <string name="userName">София Камалова</string>
+    <string name="request">Өтінім жіберу</string>
+    <string name="message">Хабар</string>
+    <string name="email">Электронды поштаңызды енгізіңіз</string>
+    <string name="password">Құпия сөзді енгізіңіз</string>
+    <string name="log">Кіру</string>
+    <string name="registr">Тіркелу</string>
+    <string name="full_enter">Толық толтырыңыз</string>
+    <string name="incorrect">Дұрыс енгізілген электронды пошта немесе құпия сөз</string>
+    <string name="welcome">Қош келдіңіз, </string>
+    <string name="lang">Тілді өзгерту</string>
+    <string name="kaz_lang">Қазақ тілі</string>
+    <string name="rus_lang">Орыс тілі</string>
+    <string name="eng_lang">Ағылшын тілі</string>
+
+    <string name="enterName">Атыңызды енгізіңіз</string>
+    <string name="enterpass">Құпия сөзді енгізіңіз</string>
+    <string name="enterbirth">Туылған күніңізді енгізіңіз</string>
+    <string name="typemess">Хабарды енгізіңіз...</string>
+    <string name="search">Іздеу</string>
+    <string name="editprofile">Деректерді өзгерту</string>
+    <string name="changeimg">Суретті өзгерту</string>
+    <string name="savechanges">Өзгерістерді сақтау</string>
+    <string name="edu">Жамбыл Инновациялық Жоғары Колледжінде оқуды оқимын</string>
+    <string name="group">2F-1 IT-Технология</string>
+    <string name="live">Таразда тұрамын</string>
+    <string name="status">Студент</string>
+    <string name="travel">Саяхат</string>
+
+    <string name="like">Лүпіл</string>
+    <string name="comment">Пікір жазу</string>
+    <string name="share">Бөлісу</string>
+    <string name="post">жарияланды: 28 Маусым</string>
+    <string name="likedpost">және басқалар сіздің жазбаңызға лүпіл басты</string>
+    <string name="commented">сіздің жазбаңызға пікір жазды</string>
+    <string name="sentrequest">дос болу үшін сұраныс жіберді</string>
+    <string name="accept">қабылдау</string>
+    <string name="today">Бүгін</string>
+    <string name="yesterday">Кеше</string>
+
+</resources>

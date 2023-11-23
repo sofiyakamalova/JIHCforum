@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="10dp"
+    android:background="@color/white"
+    tools:context="ui.authentification.LoginActivity"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <ImageView
+        android:layout_width="200dp"
+        android:layout_height="200dp"
+        android:layout_gravity="center_horizontal"
+        android:src="@drawable/logotype"
+        android:layout_marginBottom="30dp"
+        android:layout_marginTop="120dp"/>
+
+    <EditText
+        android:id="@+id/et_email"
+        android:layout_marginTop="30dp"
+        android:layout_width="match_parent"
+        android:layout_height="45dp"
+        android:hint="@string/email"
+        android:textColor="@color/black"
+        android:textColorHint="@color/dark_grey2"
+        android:padding="10dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginBottom="10dp"
+        android:textSize="15dp"
+        android:background="@drawable/button_theme"
+        android:inputType="textEmailAddress"/>
+
+    <EditText
+        android:id="@+id/et_password"
+        android:layout_width="match_parent"
+        android:layout_height="45dp"
+        android:hint="@string/password"
+        android:textSize="15dp"
+        android:padding="10dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:background="@drawable/button_theme"
+        android:textColorHint="@color/dark_grey2"
+        android:textColor="@color/black"
+        android:inputType="textPassword"/>
+
+    <Button
+        android:id="@+id/btn_login"
+        android:layout_width="match_parent"
+        android:layout_height="45dp"
+        android:background="@drawable/button_theme"
+        android:hint="@string/log"
+        android:textColorHint="@color/white"
+        android:layout_marginTop="50dp"
+        android:layout_marginLeft="30dp"
+        android:layout_marginRight="30dp"/>
+
+    <Button
+        android:textSize="15sp"
+        android:id="@+id/btn_tirkelu"
+        android:layout_width="match_parent"
+        android:layout_height="45dp"
+        android:textColorHint="@color/maincolorblue"
+        android:hint="@string/registr"
+        android:background="@drawable/button_theme"
+        app:backgroundTint="@null"
+        android:layout_marginTop="10dp"
+        android:layout_marginLeft="30dp"
+        android:layout_marginRight="30dp" />
+
+</LinearLayout>

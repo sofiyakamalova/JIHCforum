@@ -1,0 +1,47 @@
+<resources>
+    <string name="enterphone">Enter number of phone</string>
+    <string name="app_name">JIHCforum</string>
+    <string name="title_home">Home</string>
+    <string name="title_chat">Chats</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_profile">Profile</string>
+    <string name="userName">Sofiya Kamalova</string>
+    <string name="request">Send request</string>
+    <string name="message">Message</string>
+    <string name="email">Enter your email adress</string>
+    <string name="password">Enter password</string>
+    <string name="log">Log in</string>
+    <string name="registr">Register</string>
+    <string name="full_enter">Fill in completely</string>
+    <string name="incorrect">Email or password incorrectly entered</string>
+    <string name="welcome">Welcome, </string>
+    <string name="lang">Change language</string>
+    <string name="kaz_lang">Kazakh Language</string>
+    <string name="rus_lang">Russian Language</string>
+    <string name="eng_lang">English Language</string>
+    <string name="enterName">Enter name</string>
+    <string name="enterpass">Enter password</string>
+    <string name="enterbirth">Enter your of birth</string>
+    <string name="typemess">Type a message...</string>
+    <string name="search">Search</string>
+    <string name="editprofile">Edit profile</string>
+    <string name="changeimg">Change Image</string>
+    <string name="savechanges">Save changes</string>
+
+    <string name="edu">Studying at Jambyl Innovation High College</string>
+    <string name="group">2F-1 IT-Technology</string>
+    <string name="live">Living in Taraz</string>
+    <string name="status">Student</string>
+    <string name="travel">Travelling</string>
+
+    <string name="like">Like</string>
+    <string name="comment">Comment</string>
+    <string name="share">Share</string>
+    <string name="post">posted: 28 May</string>
+    <string name="likedpost">and others liked your post</string>
+    <string name="commented">commented on your post</string>
+    <string name="sentrequest">sent a request for friends</string>
+    <string name="accept">accept</string>
+    <string name="today">Today</string>
+    <string name="yesterday">Yesterday</string>
+</resources>

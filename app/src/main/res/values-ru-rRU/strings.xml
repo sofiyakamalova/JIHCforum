@@ -1,0 +1,50 @@
+<resources>
+    <string name="enterphone">Введите ваш номер телефона</string>
+    <string name="app_name">JIHCфорум</string>
+    <string name="title_home">Главная страница</string>
+    <string name="title_chat">Чаты</string>
+    <string name="title_notifications">Уведомления</string>
+    <string name="title_profile">Профиль</string>
+    <string name="userName">София Камалова</string>
+    <string name="request">Отправить запрос</string>
+    <string name="message">Сообщение</string>
+    <string name="email">Введите ваш адресс почты</string>
+    <string name="password">Введите пароль</string>
+    <string name="log">Войти</string>
+    <string name="registr">Зарегистрироваться</string>
+    <string name="full_enter">Заполните полностью</string>
+    <string name="incorrect">Веддённый вами пароль или адресс почты некорректен</string>
+    <string name="welcome">Добро Пожаловать, </string>
+    <string name="lang">Изменить язык</string>
+    <string name="kaz_lang">Казахский язык</string>
+    <string name="rus_lang">Русский язык</string>
+    <string name="eng_lang">Английский язык</string>
+    <string name="enterName">Введите имя</string>
+    <string name="enterpass">Введите пароль</string>
+    <string name="enterbirth">Введите дату вашего рождения</string>
+    <string name="typemess">Введите сообщение</string>
+    <string name="search">Поиск</string>
+    <string name="editprofile">Изменить</string>
+    <string name="changeimg">Изменить фото</string>
+    <string name="savechanges">Сохранить изменения</string>
+
+    <string name="edu">Учусь  в Джамбулском Высшем Инновационом колледже</string>
+    <string name="group">2F-1 IT-Технологии</string>
+    <string name="live">Живу в Таразе</string>
+    <string name="status">Студент</string>
+    <string name="travel">Путешествия</string>
+
+    <string name="like">Нравится</string>
+    <string name="comment">Комментарий</string>
+    <string name="share">Поделиться</string>
+    <string name="post">опубликовано: 28 мая</string>
+    <string name="likedpost">и другим понравилась ваша запись</string>
+    <string name="commented">прокомментировал(а) вашу запись</string>
+    <string name="sentrequest">отправил(а) запрос на добавление в друзья</string>
+    <string name="accept">принять</string>
+    <string name="today">Сегодня</string>
+    <string name="yesterday">Вчера</string>
+
+
+
+</resources>
